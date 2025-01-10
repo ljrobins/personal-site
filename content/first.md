@@ -11,7 +11,6 @@ tags = ["python"]
 
 This is my first blog post. $e^x$
 
-
 $$\sum_{0}^{10}{x}$$
 
 $$\int_0^\infty e^{-x}\mathrm{d}x$$

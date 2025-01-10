@@ -57,6 +57,7 @@ menu_items = [
     {name = "about me", url = "$BASE_URL/about"},
     
     # set newtab to true to make the link open in new tab
-    {name = "github", url = "https://github.com/ljrobins", newtab = true},
     {name = "resume", url = "/resume.pdf", newtab = true},
+    {name = "cv", url = "/cv.pdf", newtab = true},
+    {name = "github", url = "https://github.com/ljrobins", newtab = true},
 ]
